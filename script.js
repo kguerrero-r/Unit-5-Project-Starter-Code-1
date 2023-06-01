@@ -8,7 +8,7 @@
 // 8. Write a sentence using string concatenation using the data stored in the user input variables [ ]
 // 9. Add a next level feature! [ ]
     
-
+ 
 let submitButton=document.querySelector(".submitButton");
 let result=document.querySelector(".result");
 let resultimg=document.querySelector(".resultimg"); 
