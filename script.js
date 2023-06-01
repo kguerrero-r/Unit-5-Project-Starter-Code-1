@@ -7,7 +7,7 @@
 // 7. Write a compound conditional statement that uses input from both questions to provide the user with a result [ ]
 // 8. Write a sentence using string concatenation using the data stored in the user input variables [ ]
 // 9. Add a next level feature! [ ]
-   
+    
 
 let submitButton=document.querySelector(".submitButton");
 let result=document.querySelector(".result");
